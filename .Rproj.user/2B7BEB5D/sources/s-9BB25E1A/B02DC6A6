@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513803412737.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3345697605",
+    "id" : "B02DC6A6",
+    "lastKnownWriteTime" : 1510249244,
+    "last_content_update" : 1510249244,
+    "path" : "~/Desktop/app-CFU_counter/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

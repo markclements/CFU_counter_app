@@ -1,0 +1,23 @@
+]0;~/Desktop/CFU_counter_app[?1034hmarks-mbp-2:CFU_counter_app scartomyzon$ echo "# CFU_counter_app" >> README.md
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git init
+Initialized empty Git repository in /Users/scartomyzon/Desktop/CFU_counter_app/.git/
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git add README.md
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git commit -m "first commit"
+[master (root-commit) 8b521a3] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git remote add origin https://github.co m/markclements/CFU_counter_app.git
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git push -u origin master
+Counting objects: 3, done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 238 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/markclements/CFU_counter_app.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ 
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git add push
+fatal: pathspec 'push' did not match any files
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git [K[K[K[Kgit add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Desktop/CFU_counter_appmarks-mbp-2:CFU_counter_app scartomyzon$ git add .

@@ -1,0 +1,13 @@
+name: app-CFU_counter
+title: app-CFU_counter
+username:
+account: markclements
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 233665
+bundleId: 1067328
+url: https://markclements.shinyapps.io/app-CFU_counter/
+when: 1510249294.6964
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .httr-oauth|images
